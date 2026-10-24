@@ -1,0 +1,12 @@
+@import './base.css';
+
+#app {
+  width: 100%;
+}
+
+body {
+  background:
+    radial-gradient(circle at 8% 12%, rgba(255, 191, 148, 0.35), rgba(255, 191, 148, 0) 44%),
+    radial-gradient(circle at 92% 85%, rgba(119, 169, 255, 0.3), rgba(119, 169, 255, 0) 44%),
+    linear-gradient(160deg, #f2f6ff, #f8faff 50%, #edf3ff);
+}

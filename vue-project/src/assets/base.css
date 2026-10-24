@@ -1,0 +1,29 @@
+:root {
+  --bg-page: #eef2f9;
+  --text-main: #1d2d4f;
+  --text-subtle: #62718f;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+  color: var(--text-main);
+  background: var(--bg-page);
+  line-height: 1.6;
+  font-family:
+    'Manrope',
+    'Noto Sans SC',
+    -apple-system,
+    'Segoe UI',
+    sans-serif;
+  font-size: 16px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
