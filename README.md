@@ -15,6 +15,10 @@
 **个性化学习资源共享与推荐平台** 是一个面向师生、学习者的综合性资源共享与互动平台。平台以“资源共享”为核心，集成了**多级分类导航、资源版本迭代控制、互动社区、智能个性化推荐算法与多级后台管理**等功能。
 
 项目采用前后端分离架构开发，后端基于 **Spring Boot 3 + MyBatis-Plus + Redis + Spring Security**，前端基于 **Vue 3 + Vite + Element Plus + Pinia**，致力于为用户提供高效、智能、流畅的学习资源获取与交流体验。
+<img width="2560" height="1516" alt="image" src="https://github.com/user-attachments/assets/53f6ebe6-8630-4780-b97e-2e1b9103a5ab" />
+<img width="2560" height="1516" alt="image" src="https://github.com/user-attachments/assets/829f070c-8e8b-4e0b-8d57-2224aa265328" />
+<img width="2560" height="1516" alt="image" src="https://github.com/user-attachments/assets/710c47b6-70d4-4372-aab7-7c39a5b88c7b" />
+<img width="2560" height="1516" alt="image" src="https://github.com/user-attachments/assets/1dc1dfa8-9e25-42fc-a27a-5cc3529ae63b" />
 
 ---
 
